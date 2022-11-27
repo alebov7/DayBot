@@ -20,7 +20,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/jairgonzales3/BotsitoOficial
+> git clone https://github.com/aleiznbot/BotsitoOficial
 > cd BotsitoOficial
 > yarn install 
 > npm install
